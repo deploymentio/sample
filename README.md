@@ -1,3 +1,3 @@
 # sample
 
-A sample repo to test CI stuff.
+A sample repo to test CI stuff
